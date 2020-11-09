@@ -1,2 +1,2 @@
-# image_processing_intro
+# Image processing intro
 Image Processing Tutorial 
