@@ -1,2 +1,3 @@
-# Image processing intro
-Image Processing Tutorial 
+# Image processing introduction
+
+Image Processing Tutorial
