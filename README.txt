@@ -5,7 +5,18 @@ We recommend to install anaconda to install your python. This way you can create
 
 Once anaconda is install remember to add anaconda to your system path and conda as well. 
 
-Then you will need to install : matplotlib, astropy, numpy, opencv, scipy, scikit-image
+Then you will need to install : matplotlib, astropy, numpy, opencv, scipy, scikit-image, jupyter
+
+Here is the version of the libraires I am using on windows.
+
+scikit-image              0.16.2          
+scipy                     1.4.1 
+python 			  3.8.2 
+numpy                     1.18.1 
+jupyter                   1.0.0
+astropy                   4.0.1.
+matplotlib                3.3.0 
+opencv-python             4.2.0.34 
 
 I RECOMMEND YOU TO CREATE A ENVIRONNEMENT TO USE THIS NOTEBOOK : 
 To do so use the command :  conda create --name name_envs
